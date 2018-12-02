@@ -1,6 +1,6 @@
-a = ""
-b = ""
-c = ""
+a = 0
+b = 0
+c = 0
 
 types = ["Isosceles","Scalene","Equilateral","Not a triangle"]
 
@@ -35,6 +35,10 @@ else if (a == c && b !=c){
 }
 else if (a != c && b !=c){
 	alert (types[1])
+
+else if (a = 0 && b == 0 && c == 0){
+	alert (types[4])
+}
 
 }
 
