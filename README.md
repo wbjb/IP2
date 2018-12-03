@@ -17,6 +17,16 @@ Example
 
 #To access this, just open the file in a browser of your choice, one that has adobe flash player installed, then you will be prompted thrice for input.
 
+#BDD functionality
+
+If the length of one side is greater than the other two sides combined, then the program will return a message stating that is not a triangle.
+
+If the length of two sides of the triangle are equal, the result returned will be isosceles.
+
+If the length of all sides are congruent to each other, the program will return equilateral.
+
+If none of the sides are congruent to each other, the program will return scalene.
+ 
 
 Built With
 #Sublime 3
