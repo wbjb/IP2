@@ -39,5 +39,8 @@ else if (a == c && b !=c){
 	iso()
 
 }
+else if (a!=c && b!=c){
+	alert(types[1])
+}
 
 
