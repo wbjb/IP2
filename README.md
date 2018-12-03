@@ -4,7 +4,7 @@
 # Getting Started
 Simply, open the index.html to access the program.
 
-#Prerequisites
+# Prerequisites
 
 Adobe Flash Player
 
@@ -48,11 +48,11 @@ Mozilla Firefox
 
 Kyulu Jonah
 
-#Contact info
+# Contact info
 
 +254787740746
 driveguy44@gmail.com
 
-#License
+# License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
