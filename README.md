@@ -30,6 +30,12 @@ If the length of all sides are congruent to each other, the program will return 
 
 If none of the sides are congruent to each other, the program will return scalene.
  
+# Known bugs
+Do not input huge values or the program **might** return an undesired result.
+
+Pressing Enter without entering a value for all prompts will result into *Scalene*.
+
+Inputing 0 on all three requests might not return anything.
 
 # Built With
 

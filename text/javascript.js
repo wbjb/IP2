@@ -15,12 +15,12 @@ function Nan(notatriangle){
 }
 
 function answer(){
+for (count = 0; count < 1; count+=1){
 	a = parseInt(prompt("Enter the first measurement"))
   b = parseInt(prompt("Enter the second measurement"))
   c = parseInt(prompt("Enter the third measurement"))
   
-
-
+}
 if (a == b && b == c){
 	equal()}
  else if (a + c == b || b + c == a || a + b == c || a + c < b || b + c < a || a + b < c){
@@ -43,6 +43,5 @@ else if (a == c && b !=c){
 else if (a!=c && b!=c){
 	alert(types[1])
 }
+}
 
-
-};
