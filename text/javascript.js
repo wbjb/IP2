@@ -24,7 +24,6 @@ if (a == b && b == c){
 	equal()}
  else if (a + c == b || b + c == a || a + b == c || a + c < b || b + c < a || a + b < c){
 	Nan()
-
 }
 
 else if (a == b && b !=c){
